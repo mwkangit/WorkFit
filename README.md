@@ -50,9 +50,9 @@ Dependencies: `Spring Web`, `Spring Data JPA`, `Spring Security`, `Lombok`, `Thy
 
 ## Project Structure
 
-![image-20220910025655271](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910025655271.png)
+![image](https://user-images.githubusercontent.com/79822924/189423137-fd3d811e-0928-4bc0-bc30-2d6f567c5944.png)
 
-![image-20220910025848628](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910025848628.png)
+![image](https://user-images.githubusercontent.com/79822924/189423173-fc24840f-1b1a-49b1-a0fe-b0aac40a2fcf.png)
 
 
 
@@ -111,15 +111,17 @@ WorkFit/
 
 ## Result
 
-![image-20220910032343843](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032343843.png)
+![image](https://user-images.githubusercontent.com/79822924/189423211-13eda1a2-ac19-45bf-bdb6-132e9880e53c.png)
 
-![image-20220910032348930](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032348930.png)![image-20220910032414018](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032414018.png)
+![image](https://user-images.githubusercontent.com/79822924/189423304-889d0031-5f00-46cc-9126-f09d9b211804.png)
 
-![image-20220910032418995](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032418995.png)
+![image](https://user-images.githubusercontent.com/79822924/189423326-43030605-a312-4853-b564-b10a78d0e471.png)
 
-![image-20220910032436090](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032436090.png)
+![image](https://user-images.githubusercontent.com/79822924/189423362-b52dba4a-0ac0-4d27-b881-a8280f6d3410.png)
 
-![image-20220910032426040](/Users/mwkang/Library/Application Support/typora-user-images/image-20220910032426040.png)
+![image](https://user-images.githubusercontent.com/79822924/189423374-58577d0a-97bb-4770-8ecf-5c3b7d67ea34.png)
+
+![image](https://user-images.githubusercontent.com/79822924/189423386-07a1b40f-1c0f-4d1b-9903-a78b46c7c66e.png)
 
 
 
