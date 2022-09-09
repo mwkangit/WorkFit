@@ -100,7 +100,11 @@ WorkFit/
 │    └─ domain
 │    └─ dto
 │    └─ repository
-└──    └─ service
+│    └─ service
+└── Docs
+     └─ WorkFit_Presentation
+     └─ WorkFit_Report
+     └─ WorkFit_Paper 
 ```
 
 
